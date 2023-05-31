@@ -1,3 +1,5 @@
-# VEDIC programming language logo
+# VEDIC programming language Benchmarks
 
-![logo](https://raw.githubusercontent.com/vedic-lang/logo/main/logo.svg)
+[Link](https://vedic-lang.github.io/benchmarks)
+
+
