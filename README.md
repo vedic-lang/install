@@ -9,5 +9,5 @@
 For Linux and macOS Install vedic by running:
 
 ```bash
-curl https://rustwasm.github.io/Vedic /installer/init.sh -sSf | bash
+curl -fsSL https://vedic-lang.github.io/install/install.sh | bash
 ```
